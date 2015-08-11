@@ -48,7 +48,6 @@ public class RectangleTest {
 		}
 		
 		System.out.println("Well that was fun!! TTFN, Ta-Ta for Now!");
-		System.out.println("The toString method for r1: " + r1.toString());
 		in.close();
 	}
 

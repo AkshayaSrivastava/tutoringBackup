@@ -1,6 +1,7 @@
 package classStructureExample;
 
 public class Rectangle {
+
 	// local variables
 	int x;
 	int y;
